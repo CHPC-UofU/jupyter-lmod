@@ -165,7 +165,7 @@ define(function(require) {
                 $('<a>')
                 .attr('href', '#lmod')
                 .attr('data-toggle', 'tab')
-                .text('Softwares')
+                .text('Software Modules')
                 .click(function (e) {
                     window.history.pushState(null, null, '#lmod');
                 })
