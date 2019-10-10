@@ -24,9 +24,11 @@ which updates the following: jupyter-client-5.3.4 jupyter-core-4.6.0 notebook-5.
 
 ## setup
 
-### install
+### install (as of Oct 19)
 ```
 pip install jupyterlmod
+pip install tornado==4.5.2 terminado==0.6 jupyter-core==4.3.0 pyzmq==16.0.2 jupyter-client==5.1.0 notebook==5.2.0
+pip install notebook==5.3.0
 ```
 
 ### jupyterlab
